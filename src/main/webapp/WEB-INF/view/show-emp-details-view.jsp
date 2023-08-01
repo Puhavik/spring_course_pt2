@@ -6,6 +6,7 @@
     Dear Employee, you're welocome!
 </h2>
 <br>
-Your name: ${param.employeeName}
+<%--Your name: ${param.employeeName}--%>
+Your name: ${nameAttribute} ${description}
 </body>
 </html>
